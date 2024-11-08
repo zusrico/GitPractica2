@@ -22,3 +22,9 @@ git status
 git branch
 git branch ramaAlumno1
 git branch
+
+Ejercicio 8 - Alumno 1:
+git branch
+El asterisco significa la rama en la que me encuentro.
+
+Ejercicio 9.1 - Alumno 1:
