@@ -1,10 +1,10 @@
 Alumno1: Jesus García Sánchez
 Alumno2: José Antonio Montes Solano & Manuel 
 
-Comandos:
+Ejercicio 4 - Alumno 2:
 git clone https://github.com/zusrico/GitPractica2.git
 
-Comando Almunno 1:
+Hasta el ejercicio 6 - Almuno 1:
 mkdir Git_IA
 cd Git_IA
 git init
@@ -15,3 +15,10 @@ git push origin main
 git config --global credential.helper store
 git push origin main
 git pull origin main
+
+08/11/2024
+Ejercicio 7 - Alumno 1:
+git status
+git branch
+git branch ramaAlumno1
+git branch
