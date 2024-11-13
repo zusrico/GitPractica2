@@ -27,4 +27,7 @@ Ejercicio 8 - Alumno 1:
 git branch
 El asterisco significa la rama en la que me encuentro.
 
+13/11/2024
 Ejercicio 9.1 - Alumno 1:
+git add almacen_cli.java
+git commit -m "Añadiendo fichero almacen_cli.java"
