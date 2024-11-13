@@ -23,11 +23,20 @@ git branch
 git branch ramaAlumno1
 git branch
 
+Ejercicio 7 - Alumno 2:
+git checkout -b ramaAlno2
+git branch -m ramaAlno2 ramaAlumno2
+
+
+
+git branch
+
 Ejercicio 8 - Alumno 1:
 git branch
 El asterisco significa la rama en la que me encuentro.
 
+Ejercicio 8 - Alumno 2:
+git branch
+
 13/11/2024
 Ejercicio 9.1 - Alumno 1:
-git add almacen_cli.java
-git commit -m "Añadiendo fichero almacen_cli.java"
