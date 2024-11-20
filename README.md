@@ -121,4 +121,8 @@ index 0000000..d8070d5
 
 Ejercicio 11 - Alumno 1:
 git merge ramaAlumno1
-git push origin master
+git push origin main
+
+Ejercicio 11 - Alumno 2:
+git merge ramaAlumno2
+git push origin main
