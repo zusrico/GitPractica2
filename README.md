@@ -126,3 +126,6 @@ git push origin main
 Ejercicio 11 - Alumno 2:
 git merge ramaAlumno2
 git push origin main
+
+Ejercicio 12 - Alumno 1 y 2:
+El primer dia extablecimos el token y ya no nos volvieron a pedir los credenciales.
