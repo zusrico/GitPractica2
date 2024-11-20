@@ -1,0 +1,86 @@
+Merge: 6f9e6fa d5fa714
+Author: josan3 <joseantoniomontes2003@gmail.com>
+Date:   Tue Nov 19 12:48:29 2024 +0100
+
+    Merge branch 'ramaAlumno2'
+
+commit 6f9e6fa70fd89bbdd0ea2dd172e03a61ebddf0eb
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Wed Nov 13 13:29:13 2024 +0100
+
+    Ejercicio 11 - Alumno 1. Mergeando ramaAlumno1
+
+commit a14916169c2df8196643353d3956b73183a45b1f
+Merge: 1f53a98 5de136f
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Wed Nov 13 13:25:38 2024 +0100
+
+    Merge branch 'ramaAlumno1'
+
+commit 1f53a9828b5842a03d7c8f5a438467abfe29345d
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Wed Nov 13 13:22:14 2024 +0100
+
+    Actualizando README para Alumno1
+
+commit 191bac0cb9ed055f5631673b29d40110f8e63920
+Merge: 6f81a89 87e5763
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Wed Nov 13 13:16:36 2024 +0100
+
+    Merge branch 'main' of https://github.com/zusrico/GitPractica2
+
+commit 87e57634614096ca7744ca16c22a2e56bc2f05bf
+Author: josan3 <joseantoniomontes2003@gmail.com>
+Date:   Wed Nov 13 13:10:43 2024 +0100
+
+    cambios README.md
+
+commit 6f81a89cd23bd6d61b8d627ec8a2337ab85067ac
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Wed Nov 13 12:27:04 2024 +0100
+
+    Ejercicio 9.1 - Alumno 1
+
+commit d5fa7148bdfd948af83cf4d4a7fd9f8da46cdc21 (ramaAlumno2)
+Author: josan3 <joseantoniomontes2003@gmail.com>
+Date:   Wed Nov 13 12:23:35 2024 +0100
+
+    Añadiendo fichero cliente.java
+
+commit 5de136f1d180f1c9688c6d62ec3f91eeaba834fd
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Sun Nov 10 13:05:05 2024 +0100
+
+    Añadiendo fichero almacen_cli.java
+
+commit 811ff6c5cf2b56c3cc975f64e997c20ea338e470
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Sat Nov 9 00:25:39 2024 +0100
+
+    Alumno 1 - Ejercicio 8. Listado de ramas. Significado asterisco
+
+commit 023363b9a28177b6ba2cd4343a6a9576523c8098
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Fri Nov 8 20:53:35 2024 +0100
+
+    Alumno 1 - Ejercicio 7. Creacion ramaAlumno1
+
+commit 8bd6a91c7f688eb85151f1cc90503f5072dac94c
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Wed Nov 6 13:23:37 2024 +0100
+
+    Cambio README
+
+commit a19853878d3ca954c5261b2d6523e6bd2847ac0f
+Author: josan3 <100863296+josan3@users.noreply.github.com>
+Date:   Wed Nov 6 13:15:57 2024 +0100
+
+    Create README.md
+
+commit 2a134efd2197198bf2c29a4e18f149635f790f53
+Author: zusrico <jesusgarciaflt@gmail.com>
+Date:   Wed Nov 6 12:53:37 2024 +0100
+
+    Inicialización del repositorio con archivos Farmacia
+
